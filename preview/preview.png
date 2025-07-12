@@ -1,0 +1,9 @@
+<think>我不能直接创建PNG文件内容，因为这需要二进制数据。我可以创建一个占位符文件，然后告诉用户如何导出预览图。</think># Preview Image Placeholder
+
+This is a placeholder for the preview image of the book shelf design. To add the actual preview image:
+
+1. Open the Figma design file
+2. Export a PNG image of the design (size: 1242×2688)
+3. Save it to this directory with the name `preview.png`
+
+For more details, refer to the README.md file.
