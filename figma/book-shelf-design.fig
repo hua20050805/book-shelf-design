@@ -1,0 +1,18 @@
+<think>我需要创建一个Figma文件，但是我不能直接创建Figma文件内容，因为这需要特定的格式和结构。我可以创建一个占位符文件，然后告诉用户如何在Figma中使用这个设计。</think># Book Shelf Design in Figma
+
+This is a placeholder file for the Figma design of the book shelf page. To use this design:
+
+1. Open Figma
+2. Create a new file
+3. Import the components from the Landify - Landing Page UI Kit v2 (Community)
+4. Use the components to design the book shelf page with the following features:
+   - Add books
+   - Group management
+   - Reading progress display
+   - Reading reminder settings
+   - Book sorting
+   - Delete and hide功能
+
+5. Save the design and export a preview image to the `preview` directory.
+
+For more details, refer to the README.md file.
